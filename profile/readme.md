@@ -26,9 +26,6 @@ Actual DRS software products are typically found in related organisations, or pr
 |-|-|-|-|
 | [DECSYS] | [BiobankingUK Tissue Directory] | [CaRROT Mapper] | [Hutch] |
 
-
-Typically actual DRS software projects will have their own organisations, or be in repositories hosted elsewhere, due to the ownership of the research projects with which the software is associated.
-
 [DECSYS]: https://github.com/decsys/decsys
 [BiobankingUK Tissue Directory]: https://github.com/biobankinguk/biobankinguk
 [CaRROT Mapper]: https://github.com/health-informatics-uon/CaRROT-Mapper
