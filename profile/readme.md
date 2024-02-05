@@ -1,8 +1,8 @@
 ![Castle Square](https://avatars.githubusercontent.com/u/110397571?s=88 "University of Nottingham")
 
-# The University of Nottingham's Digital Research Service (DRS).
+# University of Nottingham Digital Research Service
 
-The DRS presence here on GitHub is primarily for general purpose shared or reusable code, for use within the team or more widely.
+The Digital Research Service (DRS) presence here on GitHub is primarily for general purpose shared or reusable code, for use within the team or more widely.
 
 Actual DRS software products are typically found in related organisations, or product specific organisations.
 
